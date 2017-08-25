@@ -41,4 +41,4 @@ gradle/wrapper/
 .classpath
 settings.gradle
 gradlew.bat
-gradlews
+gradlew
