@@ -27,7 +27,10 @@ public class Hair {
 
     }
 
-    public String getDescription() {
+    public Hair(String string) {
+	}
+
+	public String getDescription() {
 
         return description;
 
